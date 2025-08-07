@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Proyecto\\CertificadoAPI\\wwwroot\\img\\certificado.jpg",
+      "PackagePath": "staticwebassets\\img\\certificado.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CertificadoAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CertificadoAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CertificadoAPI.props",
+      "PackagePath": "build\\CertificadoAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CertificadoAPI.props",
+      "PackagePath": "buildMultiTargeting\\CertificadoAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CertificadoAPI.props",
+      "PackagePath": "buildTransitive\\CertificadoAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

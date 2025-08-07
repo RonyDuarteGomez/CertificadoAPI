@@ -1,0 +1,6 @@
+@CertificadoAPI_HostAddress = http://localhost:5054
+
+GET {{CertificadoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

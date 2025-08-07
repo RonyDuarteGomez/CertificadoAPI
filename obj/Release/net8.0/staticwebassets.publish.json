@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "qY6RCd+kmBfT01F2w3S31S0tYyq02fqbsmPkHTphcDo=",
+  "Source": "CertificadoAPI",
+  "BasePath": "_content/CertificadoAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CertificadoAPI\\wwwroot",
+      "Source": "CertificadoAPI",
+      "ContentRoot": "D:\\Proyecto\\CertificadoAPI\\wwwroot\\",
+      "BasePath": "_content/CertificadoAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Proyecto\\CertificadoAPI\\wwwroot\\img\\certificado.jpg",
+      "SourceId": "CertificadoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyecto\\CertificadoAPI\\wwwroot\\",
+      "BasePath": "_content/CertificadoAPI",
+      "RelativePath": "img/certificado#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xc1famdbxr",
+      "Integrity": "oaaCmW6I19wdhuPVEL++3d6J/qpibLbwhpfL8DFApMU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\certificado.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "img/certificado.jpg",
+      "AssetFile": "D:\\Proyecto\\CertificadoAPI\\wwwroot\\img\\certificado.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oaaCmW6I19wdhuPVEL++3d6J/qpibLbwhpfL8DFApMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 01 Aug 2025 15:15:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oaaCmW6I19wdhuPVEL++3d6J/qpibLbwhpfL8DFApMU="
+        }
+      ]
+    },
+    {
+      "Route": "img/certificado.xc1famdbxr.jpg",
+      "AssetFile": "D:\\Proyecto\\CertificadoAPI\\wwwroot\\img\\certificado.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oaaCmW6I19wdhuPVEL++3d6J/qpibLbwhpfL8DFApMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 01 Aug 2025 15:15:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xc1famdbxr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/certificado.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oaaCmW6I19wdhuPVEL++3d6J/qpibLbwhpfL8DFApMU="
+        }
+      ]
+    }
+  ]
+}
